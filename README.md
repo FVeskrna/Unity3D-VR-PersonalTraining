@@ -5,3 +5,5 @@ Purpose of this programme is to show possibilities of using VR hardware in combi
 Using this technique, trained personnel is not exposed to risk of injury and can be trained for dangerous scenarios that are hardly simulated in real life.
 
 Due to project containing paid assets, full unity project could not be shared.
+
+[Demo Video](https://youtu.be/xPOP2iIj9FM)
